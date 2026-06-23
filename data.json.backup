@@ -1,0 +1,35 @@
+{
+    "small": {
+        "id": 0,
+        "vms": [],
+        "revenue": 0,
+        "used_cpu": 0,
+        "used_ram": 0,
+        "used_ssd": 0,
+        "max_cpu": 8,
+        "max_ram": 32,
+        "max_ssd": 16
+    },
+    "medium": {
+        "id": 1,
+        "vms": [],
+        "revenue": 0,
+        "used_cpu": 0,
+        "used_ram": 0,
+        "used_ssd": 0,
+        "max_cpu": 16,
+        "max_ram": 256,
+        "max_ssd": 64
+    },
+    "big": {
+        "id": 2,
+        "vms": [],
+        "revenue": 0,
+        "used_cpu": 0,
+        "used_ram": 0,
+        "used_ssd": 0,
+        "max_cpu": 64,
+        "max_ram": 512,
+        "max_ssd": 128
+    }
+}
